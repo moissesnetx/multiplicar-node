@@ -12,5 +12,6 @@
     "color": "^3.1.2",
     "colors": "^1.4.0",
     "yargs": "^15.3.1"
-  }
+  },
+  "devDependencies": {}
 }
